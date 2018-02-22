@@ -7,3 +7,4 @@ java并发包
 - ### [LinkedBlockingQueue](https://github.com/yangzhenlong/concurrent-demo/blob/master/1.3.LinkedBlockingQueue.md)
 - ### [PriorityBlockingQueue](https://github.com/yangzhenlong/concurrent-demo/blob/master/1.4.PriorityBlockingQueue.md)
 - ### [SynchronousQueue](https://github.com/yangzhenlong/concurrent-demo/blob/master/1.5.SynchronousQueue.md)
+- ### [BlockingDeque(LinkedBlockingDeque)](https://github.com/yangzhenlong/concurrent-demo/blob/master/1.6.LinkedBlockingDeque.md)
